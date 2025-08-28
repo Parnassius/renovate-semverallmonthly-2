@@ -9,9 +9,6 @@
     "commitMessageAction": "Update",
     "groupName": "all dependencies",
     "groupSlug": "all",
-    "lockFileMaintenance": {
-      "enabled": false
-    },
     "packageRules": [
       {
         "groupName": "all dependencies",
